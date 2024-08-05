@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harminder Arora! <br/><a href="https://github.com/Blockchainrebal">Programmer</a>, <a href="https://www.linkedin.com/in/Blockchainrebal/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Blockchainrebal">YouTuber</a></h1>
+<h1>Hi, I'm Harminder Arora! <br/><a href="https://github.com/Blockchainrebal">/a>, <a href="https://www.linkedin.com/in/Blockchainrebal/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Blockchainrebal">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
